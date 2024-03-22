@@ -1,16 +1,16 @@
    
 
-hack-windows
-============
+hijack-win
+==========
 
-hack-windows
+hijack-hijack
 
-[![NPM Version](https://img.shields.io/npm/v/hack-windows?color=33cd56&logo=npm)](https://www.npmjs.com/package/hack-windows)  [![NPM Version](https://img.shields.io/npm/dm/hack-windows.svg?style=flat-square)](https://www.npmjs.com/package/hack-windows)  [![unpacked size](https://img.shields.io/npm/unpacked-size/hack-windows?color=green)](https://www.npmjs.com/package/hack-windows)  [![Author](https://img.shields.io/badge/docs_by-robertpanvip-blue)](https://github.com/robertpanvip/hack-windows.git)
+[![NPM Version](https://img.shields.io/npm/v/hijack-win?color=33cd56&logo=npm)](https://www.npmjs.com/package/hijack-win)  [![NPM Version](https://img.shields.io/npm/dm/hijack-win.svg?style=flat-square)](https://www.npmjs.com/package/hijack-win)  [![unpacked size](https://img.shields.io/npm/unpacked-size/hijack-win?color=green)](https://www.npmjs.com/package/hijack-win)  [![Author](https://img.shields.io/badge/docs_by-robertpanvip-blue)](https://github.com/robertpanvip/hijack-win.git)
 
 📦 **Installation**
 -------------------
 
-    npm install hack-windows
+    npm install hijack-win
 
 🏠 Exports
 ----------
